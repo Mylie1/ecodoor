@@ -1,0 +1,61 @@
+body {
+  font-family: "Caladea";
+}
+
+.bg-green {
+  background-color: #92ccb9;
+}
+
+.bg-blue {
+  background-color: #77C9D4;
+}
+
+.section-title {
+  font-size: 2.1rem;
+  font-family: "Montserrat";
+  font-weight: 600;
+}
+
+.section-subtitle {
+  font-size: 2rem;
+  margin-bottom: 15px;
+}
+
+.navbar {
+  position: absolute;
+  z-index: 2;
+  left: 0;
+  right: 0;
+}
+
+.home-img {
+  max-height: 100vh;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  font-weight: 600;
+  font-size: 1.3rem;
+}
+
+.card-benefits {
+  box-shadow: 0 0 4px -1px grey;
+}
+
+.card-body {
+  margin: 2rem 0;
+}
+
+.card-img {
+  max-width: 40%;
+}
+
+.card-title {
+  font-size: 1.8rem;
+  margin: 2rem 0;
+  font-family: "Caladea";
+}
+
+.card-text {
+  font-size: 15px;
+}
+

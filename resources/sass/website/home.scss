@@ -1,0 +1,15 @@
+.navbar {
+    position: absolute;
+    z-index: 2;
+    left: 0;
+    right: 0;
+}
+
+.home-img {
+    max-height: 100vh;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    font-weight: 600;
+    font-size: 1.3rem;
+}
